@@ -1,0 +1,5 @@
+
+p {display: inline;}
+span{color: aqua;}
+div{text-align: center;
+margin: 10%; background-color: darkgray; padding: 20px;border-radius: 10px; border-top: 5px solid yellowgreen;border-right: 5px solid yellowgreen; box-shadow:20px 20px 20px salmon;}
